@@ -4,3 +4,9 @@
 *1
 * 2
 * 3
+```flow
+st=>start: 开始
+end=>end: 结束
+
+st->end
+```
