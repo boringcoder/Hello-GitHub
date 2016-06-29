@@ -22,3 +22,8 @@ op(yes)->end
 op(no)->op1
 op1->end
 ```
+---
+|name|age|
+|:--:|:--:|
+|yu|78|
+|tt|56|
