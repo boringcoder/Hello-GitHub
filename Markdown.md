@@ -1,8 +1,7 @@
 # Markdown示例
 
-标签（空格分隔）： Markdown
 ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
----
+***
 ## 标题：
 # 一级标题
 ## 二级标题
@@ -15,15 +14,15 @@
 ---
 ---
 ## 列表：
-### 无序列表：
-- 1
-+ 2
-* 3
-### 有序列表：
-1. 1
-2. 2
-3. 3
----
+    ### 无序列表：
+        - 1
+        + 2
+        * 3
+    ### 有序列表：
+        1. 1
+        2. 2
+        3. 3
+***
 ## 引用：
 > 符号">"和文本之间要有空格
 ---
@@ -61,12 +60,9 @@ public static void main(String[] args){
 ```
 **OR**
 行内的`java`代码
----
+***
 ## 分割线：
 ***
----
-## HTML兼容：
-<del>删除线</del>
 ---
 ## 反斜线：
 \*abc\*
